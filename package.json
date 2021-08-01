@@ -1,0 +1,14 @@
+{
+  "name": "watermark",
+  "version": "1.0.0",
+  "description": "App adding watermark to pictures",
+  "main": "app.js",
+  "repository": "https://github.com/agiskorska/watermark.git",
+  "author": "Agi Skra",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
